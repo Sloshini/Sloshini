@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sloshini
+- 👀 I’m interested in Kali OS and scripting
+- 🌱 I’m currently learning C#, CSS
