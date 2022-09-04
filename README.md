@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Sloshini
-- 👀 I’m interested in Kali OS and scripting
-- 🌱 I’m currently learning C#, CSS
+- 👀 I’m interested in Kali OS and Networking
+- 🌱 Right now I’m currently learning C++ and TCL
+- 👨‍💻 I’m currently working for the german army (Bundeswehr)
